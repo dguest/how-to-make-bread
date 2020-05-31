@@ -3,9 +3,10 @@ How to make Bread
 
 This is summarized from [a more verbose article][1]. Several improvements here:
 
-- They never say how long it takes total. One popular recipe that links to it says 2 hours. It's closer to a week and a half all told, and even the baking part is most of a day.
-- Too many words, no clear sections. Important things like the order of the steps are hard to extract.
+- Time required is important. People have jobs.
+- Most articles have many words, no clear sections. Important things like the order of the steps are hard to extract.
 - List of ingredients is useful.
+- Translate units to SI. Ooohh look at me, I live in Europe.
 
 [1]: https://pinchmysalt.com/how-to-make-sourdough-bread/
 
