@@ -8,10 +8,22 @@ This is summarized from [a more verbose article][1].
 Ingredients
 -----------
 
-- Starter: (around 250 ml)
-- Flour: more than 1 L (750 for sponge, more for dough)
-- 2 spoons of salt
+### Required ###
 
+- **Starter:** around 250 ml
+- **Flour:** more than 1 L (750 for sponge, more for dough)
+- **Salt:** 2 spoons
+- **Oil:** several spoons to grease things
+
+### Optional ###
+
+- **Cornmeal** to prevent sticking
+
+Making Sponge
+-------------
+
+- **Mix** 750 ml flour and 250 ml water with starter
+- **Rest** for 2 - 8 hours
 
 Post sponge
 -----------
@@ -22,7 +34,7 @@ Post sponge
 - **Knead** for several more minutes
 - **Transfer:** to a greased bowl
    - **Flip** once
-- **Rest** for rise for 1.5 -- 2 hours
+- **Rest** for rise for 1.5 - 2 hours
 - **Divide** in half and shape
 - **Transfer** to cooking pan
 - **Rest** for about 2 hours
