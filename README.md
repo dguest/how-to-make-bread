@@ -36,7 +36,7 @@ Post sponge
    - **Flip** once
 - **Rest** for rise for 1.5 - 2 hours
 - **Divide** in half and shape
-- **Transfer** to cooking pan
+- **Transfer** to cooking pan (covered with cornmeal if you got it)
 - **Rest** for about 2 hours
 - **Decorate** with slices and cuts
 - **Bake** at 235 for 20 minutes
