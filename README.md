@@ -65,13 +65,16 @@ To do
 =====
 
 - Consider this [this NYT article][2] more carefully. Specifically:
-   - Add _autolyse_ to the sponge by mixing the flour and water in a
-     4:3 ratio and waiting for 30 minutes. This is supposed to start
-     the gluten separation.
    - They recommend kneading a lot longer, around 20 minutes total,
      until stretching it into a thin layer forms a translucent
      "window".
    - Less kneading, more "folding" in their language, all done in a
      bowel, with what seems to be wetter dough.
+   - They recommend using autolyse, see below.
+
+- Add [_autolyse_][3] to the sponge by mixing the flour and water in a
+  4:3 ratio and waiting for 30 minutes. This is supposed to start the
+  gluten separation.
 
 [2]: https://cooking.nytimes.com/guides/59-how-to-make-sourdough-bread
+[3]: https://en.wikipedia.org/wiki/Autolysis_(biology)
