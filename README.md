@@ -50,7 +50,7 @@ Post sponge
 
 - **Mix** in salt and flour until you can't stir it no mo
 - **Knead** for about 3 minutes
-- **Rest** for 5 minutes (good time to clean out the bowel)
+- **Rest** for 5 minutes (good time to clean out the bowl)
 - **Knead** for several more minutes
 - **Transfer:** to a greased bowl
    - **Flip** once
